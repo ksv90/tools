@@ -1,0 +1,5 @@
+{
+  "extends": ["./packs/typescript/tsconfig.json"],
+  "include": ["."],
+  "exclude": ["node_modules"]
+}
