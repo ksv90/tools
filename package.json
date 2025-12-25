@@ -57,10 +57,11 @@
   "engines": {
     "node": ">=16.0.0"
   },
+  "packageManager": "pnpm@10.26.2",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org/",
+    "provenance": true
   },
-  "packageManager": "pnpm@9.4.0",
   "homepage": "https://github.com/ksv90/tools",
   "repository": {
     "type": "git",
