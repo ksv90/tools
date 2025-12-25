@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.2](https://github.com/ksv90/tools/compare/v0.0.1...v0.0.2) (2025-12-25)
+
+
+### Bug Fixes
+
+* publish in ginhub ([71eca04](https://github.com/ksv90/tools/commit/71eca0481dce1160e543721f0d6fa0cfcc4ef749))
+* publish in ginhub ([3cffb63](https://github.com/ksv90/tools/commit/3cffb6301432f95050a2d32d1e9b19ff11578ba6))
+
 ## 0.0.1 (2024-11-06)
 
 
