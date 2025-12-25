@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.0.3](https://github.com/ksv90/tools/compare/v0.0.2...v0.0.3) (2025-12-25)
+
+
+### Bug Fixes
+
+* publish update ([10fed35](https://github.com/ksv90/tools/commit/10fed35f1dfd2152dc4c6fd17b70db2097017b5f))
+* publish update ([d7dc38e](https://github.com/ksv90/tools/commit/d7dc38ea6769159fd25201cd334a0e76a64eccba))
+* typo ([3f70132](https://github.com/ksv90/tools/commit/3f70132cdffe2cb462bb52ad0d5e5ee9d6eed536))
+* typo ([cb9d79a](https://github.com/ksv90/tools/commit/cb9d79a371258871ea779bf34d7c20307c33942e))
+
 ## [0.0.2](https://github.com/ksv90/tools/compare/v0.0.1...v0.0.2) (2025-12-25)
 
 
