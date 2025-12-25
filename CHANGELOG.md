@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.4](https://github.com/ksv90/tools/compare/v0.0.3...v0.0.4) (2025-12-25)
+
+
+### Bug Fixes
+
+* test ([ae13278](https://github.com/ksv90/tools/commit/ae13278095f6187a0f166c956f21743a2fab2b28))
+* test ([4dfa346](https://github.com/ksv90/tools/commit/4dfa3460ba39b7009c4e78093829674546ecffc5))
+
 ## [0.0.3](https://github.com/ksv90/tools/compare/v0.0.2...v0.0.3) (2025-12-25)
 
 
