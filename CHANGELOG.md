@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.6](https://github.com/ksv90/tools/compare/v0.0.5...v0.0.6) (2025-12-29)
+
+
+### Bug Fixes
+
+* test ([7aefdd7](https://github.com/ksv90/tools/commit/7aefdd75b7317be5dbca2f36e98beb353ce69a6b))
+* test ([0e54b83](https://github.com/ksv90/tools/commit/0e54b837b88d3e62a8c39ee82899772d8fbddba7))
+
 ## [0.0.5](https://github.com/ksv90/tools/compare/v0.0.4...v0.0.5) (2025-12-29)
 
 
