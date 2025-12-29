@@ -3,9 +3,6 @@ on:
   release:
     types: [published]
 
-env:
-  NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 permissions:
   contents: read
   id-token: write
@@ -15,7 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - run: echo "//registry.npmjs.org/:_authToken=\${NODE_AUTH_TOKEN}" >> .npmrc
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+          registry-url: 'https://registry.npmjs.org'
       - uses: ./.github/actions/install
       - run: pnpm build
-      - run: pnpm publish --no-git-checks --access public --provenance
+      - run: pnpm publish --no-git-checks --access public
