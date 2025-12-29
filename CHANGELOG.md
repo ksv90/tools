@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.8](https://github.com/ksv90/tools/compare/v0.0.7...v0.0.8) (2025-12-29)
+
+
+### Bug Fixes
+
+* publish ([ada0d4c](https://github.com/ksv90/tools/commit/ada0d4c80ee73ad66bad0731a677ba9253a2d56f))
+* publish ([9206631](https://github.com/ksv90/tools/commit/9206631fc4a0ed55523b793ebecf8e61e3f805c7))
+
 ## [0.0.7](https://github.com/ksv90/tools/compare/v0.0.6...v0.0.7) (2025-12-29)
 
 
