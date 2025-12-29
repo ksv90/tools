@@ -57,5 +57,10 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "provenance": true
+  },
+  "homepage": "https://github.com/ksv90/tools",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksv90/tools.git"
   }
 }
